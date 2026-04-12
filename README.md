@@ -1,5 +1,7 @@
 # B2B Customer Retention & Churn Predictive System
 
+![Project Demo](docs/demo.webp)
+
 ## Project Overview
 Customer retention is crucial for Telecom & SaaS businesses. This project involves deep exploratory data analysis (EDA) and robust predictive machine learning to identify customers at high risk of churning, transitioning raw operational logs into actionable business insights.
 
