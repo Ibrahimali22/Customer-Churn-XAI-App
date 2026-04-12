@@ -4,3 +4,5 @@ scikit-learn
 shap
 xgboost
 plotly
+matplotlib
+imbalanced-learn
